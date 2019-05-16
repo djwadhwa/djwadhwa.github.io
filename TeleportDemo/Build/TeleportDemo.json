@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "T&T_Teleportation_Demo",
+"dataUrl": "TeleportDemo.data.unityweb",
+"asmCodeUrl": "TeleportDemo.asm.code.unityweb",
+"asmMemoryUrl": "TeleportDemo.asm.memory.unityweb",
+"asmFrameworkUrl": "TeleportDemo.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
